@@ -1,2 +1,1 @@
-# asts-report
-$ASTS research report in a Markdown format
+Markdown (Obsidian) version of our report for easy collaborative editing is coming soon (we still need to do some final cleaning up). In the meantime, you can view the latest interactive report at our website (and download a PDF version too): https://transhumanica.com/asts
